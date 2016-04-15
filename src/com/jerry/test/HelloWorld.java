@@ -12,5 +12,7 @@ public class HelloWorld {
         System.out.println("[jerry's log]-------------args's val() = [" + args + "]," + " current_method = HelloWorld.main()");
         System.out.println("hehe");
         System.out.println("[jerry's log]-------------args's val() = [" + args + "]," + " current_method = HelloWorld.main()");
+
+        System.out.println("this is a branches");
     }
 }
